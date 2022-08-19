@@ -6,10 +6,7 @@ Repositorio del Ciclo 3 Diplomado en desarrollo de Software MinTIC 2022
    <img src="https://img.shields.io/badge/Status-En%20desarrollo-yellowgreen">
 </p>
 
-   <p align="center">
-   <img src="https://github.com/redqueenc3/ciclo3_semana2/commit/41349153fd3d37889bd82c0ce0422738acf1c109">
-   </p>
-
+![Money2Flow by RedQueen](https://github.com/redqueenc3/ciclo3_semana2/blob/41349153fd3d37889bd82c0ce0422738acf1c109/logo.jpeg)
 
 ## Descripción del Proyecto
 El contenido de este repositorio corresponde a la creación del aplicativo web Money2Flow por el equipo de trabajo Red Queen en el marco del Diplomado en desarrollo de Software MinTic 2022.
