@@ -23,5 +23,9 @@ public class main {
         helado.setMonto(-543.6);
         System.out.println(helado.getMonto());
 
+        //Prueba del método set para la clase empleado
+        user1.setNombreEmpleado("Juan Camilo Cardona");
+        System.out.println(user1.getNombreEmpleado());
+
     }
 }
