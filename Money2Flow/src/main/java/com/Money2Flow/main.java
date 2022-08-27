@@ -11,8 +11,17 @@ public class main {
 
         // Prueba de instancia clase Empleado
 
+        Empleado user1 = new Empleado("Liliana Vargas", "liliana@gmail.com", IbmCloud, "Administrativo");
+        System.out.println(user1.getNombreEmpleado());
+        user1.setRolEmpleado("Operativo");
+        System.out.println(user1.getRolEmpleado());
+
 
         //Prueba de instancia clase MovimientoDinero
+        movimientoDinero helado = new movimientoDinero(-500.0, "Compra de Helado", user1);
+        System.out.println(helado.getConcepto());
+        helado.setMonto(-543.6);
+        System.out.println(helado.getMonto());
 
     }
 }

@@ -11,7 +11,7 @@ public class Empresa {
     //---------------
 
     /**
-    *Constructor de la clase Empresa con todos los campos dados
+    *Constructor de la clase Empresa con todos los atributos dados
      * @param nombre Nombre de la empresa
      * @param direccion Ubicación de la empresa
      * @param telefono Telefono de la empresa
