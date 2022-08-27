@@ -14,17 +14,17 @@ El contenido de este repositorio corresponde a la creación del aplicativo web M
 Este aplicativo web tiene como objetivo que un administrador ficticio pueda gestionar los ingresos y egresos de su empresa, añadiendo usuarios del sistema contable y permitiendo la trazabilidad de los responsables de cada transacción. 
 
 ## Desarrolladores
-- `Scrum Master`: Fernando Velez Carmona
-- `Desarrolladora Backend`: Liliana Maria Avendaño 
-- `Desarrolladora BackEnd`: Johan Katherine Noreña Bahamon
-- `Desarrollador FrontEnd`: Johan Libardo Pinzon Lopez
-- `Administrador Base de datos`: Juan Camilo Cardona Pizarro
+- `Scrum Master`: Fernando Velez Carmona.
+- `Desarrolladora Backend`: Liliana Maria Avendaño.
+- `Desarrolladora BackEnd`: Johan Katherine Noreña Bahamon.
+- `Desarrollador FrontEnd`: Johan Libardo Pinzon Lopez.
+- `Administrador Base de datos`: Juan Camilo Cardona Pizarro.
 
 ## Fases
-- `Sprint 1`: Conformación del equipo de trabajo y nombramiento de roles
-- `Sprint 2`: Creación de clases para las entidades básicas de la aplicación 
-- `Sprint 3`: Crear el backend para la aplicación
-- `Sprint 4`: Crear el frontend para la aplicación
+- `Sprint 1`: Conformación del equipo de trabajo y nombramiento de roles.
+- `Sprint 2`: Creación de clases para las entidades básicas de la aplicación.
+- `Sprint 3`: Crear el backend para la aplicación.
+- `Sprint 4`: Crear el frontend para la aplicación.
 
 ## Tecnologias
 - JAVA
