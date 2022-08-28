@@ -27,5 +27,9 @@ public class main {
         user1.setNombreEmpleado("Juan Camilo Cardona");
         System.out.println(user1.getNombreEmpleado());
 
+        //Prueba del método set para la clase empresa
+        IbmCloud.setNombre("AVF");
+        System.out.println(IbmCloud.getNombre());
+
     }
 }
