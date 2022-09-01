@@ -31,5 +31,10 @@ public class main {
         IbmCloud.setNombre("AVF");
         System.out.println(IbmCloud.getNombre());
 
+        //Prueba  Pablo
+        IbmCloud.setDireccion("Cra 73bis#22b-23, Modelia");
+        System.out.println(IbmCloud.getDireccion());
+
+
     }
 }
