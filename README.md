@@ -17,7 +17,7 @@ Este aplicativo web tiene como objetivo que un administrador ficticio pueda gest
 - `Scrum Master`: Fernando Velez Carmona.
 - `Desarrolladora Backend`: Liliana Maria Avendaño.
 - `Desarrolladora BackEnd`: Johan Katherine Noreña Bahamon.
-- `Desarrollador FrontEnd`: Johan Libardo Pinzon Lopez.
+- `Desarrollador FrontEnd`: Pablo Eduardo Puerto Torres.
 - `Administrador Base de datos`: Juan Camilo Cardona Pizarro.
 
 ## Fases
